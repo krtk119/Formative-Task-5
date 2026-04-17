@@ -1,7 +1,10 @@
-import swiftbot.SwiftBotAPI;
+package kartik;
+import swiftbot.SwiftBotAPI; 
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.Scanner;
+
+import kartik.Agent;
 
     // Handles QR authentication — extends Module for LED and sleep access
 // Zero-trust: every operation re-authenticates

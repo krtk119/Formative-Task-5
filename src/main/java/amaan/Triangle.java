@@ -1,3 +1,4 @@
+package amaan;
 // Triangle extends Shape - same as Square but with 3 sides and different angles
 public class Triangle extends Shape {
 

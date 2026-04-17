@@ -1,4 +1,4 @@
-
+package joshua;
 public class DanceCalculator {
 
    

@@ -1,3 +1,4 @@
+package amaan;
 import swiftbot.*;
 import java.util.ArrayList;
 import java.util.Scanner;

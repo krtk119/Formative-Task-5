@@ -1,6 +1,7 @@
-
 // Data model for safe house agents — immutable, private constructor
 // Static registry pattern: callers use find() not new Agent()
+package kartik;
+
 public class Agent {
 
     // ──Private fields — not accessible outside this class ───────────

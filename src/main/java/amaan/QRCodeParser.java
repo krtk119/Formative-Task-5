@@ -1,3 +1,4 @@
+package amaan;
 import java.util.ArrayList;
 
 // this class takes the raw text from a QR code and turns it into Shape objects

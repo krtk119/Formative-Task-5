@@ -1,3 +1,4 @@
+package fanice;
 import swiftbot.*;
 
 import java.awt.image.BufferedImage;

@@ -1,5 +1,8 @@
-import swiftbot.SwiftBotAPI;
+package kartik;
+ import swiftbot.SwiftBotAPI; 
 import java.util.Scanner;
+
+
 
     // Handles all robot movement — tracks current location, handles obstacles
 // Geometric turn logic: 150deg turn + 30deg correction per edge

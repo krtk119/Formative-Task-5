@@ -1,3 +1,4 @@
+package joshua;
 public class RGBColour {
 
     private final int red;

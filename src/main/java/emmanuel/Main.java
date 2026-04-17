@@ -1,3 +1,4 @@
+package emmanuel;
 import swiftbot.*;
 
 // Main class - runs the whole program

@@ -1,3 +1,4 @@
+package emmanuel;
 import swiftbot.*;
 
 // Handles odd-numbered sections (1, 3, 5...)

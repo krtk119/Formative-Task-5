@@ -1,4 +1,5 @@
-import swiftbot.SwiftBotAPI;
+package kartik;
+ import swiftbot.SwiftBotAPI;
 import swiftbot.Button;
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,3 +1,4 @@
+package emmanuel;
 import swiftbot.*;
 
 // Handles even-numbered sections (2, 4, 6...)

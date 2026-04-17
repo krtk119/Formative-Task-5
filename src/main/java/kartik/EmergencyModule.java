@@ -1,4 +1,5 @@
-import swiftbot.SwiftBotAPI;
+package kartik;
+import swiftbot.SwiftBotAPI; 
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;

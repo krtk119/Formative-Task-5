@@ -1,3 +1,4 @@
+package joshua;
 import swiftbot.*;
 import swiftbot.Button;
 import swiftbot.ButtonFunction;

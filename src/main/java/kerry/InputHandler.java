@@ -1,3 +1,4 @@
+package kerry;
 import java.util.Scanner;
 
 public class InputHandler {

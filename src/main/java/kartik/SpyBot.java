@@ -1,7 +1,9 @@
-import swiftbot.SwiftBotAPI;
+package kartik;
+import swiftbot.SwiftBotAPI; 
 import java.time.*;
 import java.time.format.*;
 import java.util.Scanner;
+
 
 public class SpyBot {
 

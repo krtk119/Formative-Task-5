@@ -1,3 +1,4 @@
+package amaan;
 // Square extends Shape - it inherits name and timeTaken from Shape
 public class Square extends Shape {
 

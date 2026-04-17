@@ -1,3 +1,4 @@
+package kartik;
 import swiftbot.SwiftBotAPI;
 import java.util.Scanner;
 

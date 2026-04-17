@@ -1,3 +1,4 @@
+package kartik;
 import swiftbot.SwiftBotAPI;
 import java.io.*;
 import java.time.LocalDateTime;
@@ -5,6 +6,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+
 
     // Handles all file I/O — writes to spybot_communications.txt and cycle_analysis_log.txt
 // Pipe-delimited format: id|sender|location|receiver|location|text|sent|delivered|status

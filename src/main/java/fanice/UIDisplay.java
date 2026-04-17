@@ -1,3 +1,4 @@
+package fanice;
 /**
  * This class handles everything the user sees in the console. Every message,
  * screen and error goes through here.

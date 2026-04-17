@@ -1,3 +1,4 @@
+package fanice;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;

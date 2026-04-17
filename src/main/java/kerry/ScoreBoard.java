@@ -1,3 +1,4 @@
+package kerry;
 public class ScoreBoard {
     private int playerScore;
     private int computerScore;

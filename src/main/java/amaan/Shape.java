@@ -1,3 +1,4 @@
+package amaan;
 // abstract class that Square and Triangle will extend
 // I made this so I don't have to repeat the same code in both classes
 public abstract class Shape {

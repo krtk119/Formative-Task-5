@@ -1,6 +1,6 @@
+package kartik;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-
     // Data model for a single message — encapsulates all fields privately
 // Status starts PENDING, only markDelivered() can change it
     public class Message {

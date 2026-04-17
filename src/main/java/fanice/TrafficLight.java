@@ -1,3 +1,4 @@
+package fanice;
 /**
  * This enum holds the different traffic light colours that the SwiftBot can
  * pick up while navigating. Each value corresponds to a colour the camera
