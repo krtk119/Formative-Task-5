@@ -17,9 +17,9 @@ public class Main_Menu {
             System.out.println("4.  Emmanuel   - ZigZag");
             System.out.println("5.  Joshua     - Dance");
             System.out.println("6.  Amaan      - Draw Shapes");
-            System.out.println("7.  Aayan      - Coming soon");
-            System.out.println("8.  Adeeb      - Coming soon");
-            System.out.println("9.  Maqsura    - Coming soon");
+            System.out.println("7.  Aayan      - Pending");
+            System.out.println("8.  Adeeb      - Pending");
+            System.out.println("9.  Maqsura    - Pending");
             System.out.println("0.  Exit");
             System.out.println("========================================");
             System.out.print("Enter your choice: ");
